@@ -4,7 +4,7 @@ Back-end-only Express API for registering users and storing picture metadata in 
 
 ## Hosted application
 
-Render URL: **To be added after deployment**
+Render URL: https://summer-resit-2026-picture-api-exibelpower.onrender.com
 
 ## Environment configuration
 
